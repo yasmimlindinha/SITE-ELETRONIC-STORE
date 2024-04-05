@@ -5,16 +5,16 @@
 
  .cabecalho{
     color:white;
-    margin:center;
+    margin: center;
  }
 
  .cabecalho-lista-1{
     color:white;
-    margin: left 40px; /*alinhamento à esquerda*/
-    padding: 20px; /* espaçamento vertical*/
+    margin: left 40px; /*alinhamento à esquerda */
+    padding: 20px; /* espaçamento vertical */
  }
 
- .cabecalho_lista-2{
+ .cabecalho_lista-2 {
     color:white;
     margin-left: 40px;
     padding: 20px;
@@ -27,12 +27,12 @@
 
  .titulo-2{
     color:black;
-    justfy-content: center;
+    justify-content: center;
  }
 
  .paragrafo-1{
    margin-left: 20px;
-   justfy-content: center;
+   justify-content: center;
  }
 
 .titulo-3 {

@@ -10,7 +10,7 @@
 
  .cabecalho-lista-1{
     color:white;
-    margin: left 40px; /* alinhamento à esquerda */
+    margin-left: 40px; /* alinhamento à esquerda */
     padding: 20px; /* espaçamento vertical */
  }
 
@@ -23,6 +23,7 @@
  body{
     background-color: rgb(252,252,173);
     color:black;
+    font-family:'Poppins', 'sans-serif';
  }
 
  .titulo-2{

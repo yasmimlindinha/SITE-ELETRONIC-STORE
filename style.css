@@ -11,13 +11,13 @@
  .cabecalho-lista-1 {
     color:white;
     margin-left: 40px; /* alinhamento à esquerda */
-    padding: 20px; /* espaçamento vertical */
+    padding: 10px; /* espaçamento vertical */
  }
 
  .cabecalho_lista-2 {
     color:white;
     margin-left: 40px;
-    padding: 20px;
+    padding: 10px;
  }
 
  body {

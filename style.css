@@ -5,19 +5,25 @@
 
  .cabecalho {
     color:white;
-    margin: center;
+    margin-left: 660px;
+    text-align: center;
+    display: flex;
  }
 
  .cabecalho-lista-1 {
     color:white;
-    margin-left: 40px; /* alinhamento à esquerda */
-    padding: 10px; /* espaçamento vertical */
+    margin-left: 260px; /* alinhamento à esquerda */
+    padding: 40px; /* espaçamento vertical */
+    display: inline-block;
+    justify-content: center;
  }
 
  .cabecalho-lista-2 {
     color:white;
-    margin-left: 40px;
-    padding: 10px;
+    margin-left: 260px;
+    padding: 40px;
+    display: inline-block;
+    justify-content: center;
  }
 
  body {

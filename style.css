@@ -35,7 +35,7 @@
  .titulo-2 {
     color:black;
     justify-content: center;
-    padding: 40px;
+    display: flex;
  }
 
  .paragrafo-1 {

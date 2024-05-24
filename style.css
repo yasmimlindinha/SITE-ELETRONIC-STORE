@@ -72,7 +72,7 @@
 }
 
 .capacitor {
-   width: 50%;
+   width: 30%;
    display: inline;
    padding: 30px;
    margin-left: 60px;
@@ -80,14 +80,14 @@
 }
 
 .sensor-LDR {
-   width: 50%;
+   width: 30%;
    display:inline;
    padding: 20px;
    margin-left: 150px;
 }
 
 .led {
-   width: 50%;
+   width: 30%;
    display:inline;
    padding: 20px;
    margin-left: 140px; 

@@ -86,8 +86,8 @@
    margin-left: 150px;
 }
 
-.LED {
-   width: 1%;
+.led {
+   width: 20%;
    display:inline;
    padding: 20px;
    margin-left: 140px; 
